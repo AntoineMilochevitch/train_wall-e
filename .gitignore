@@ -1,0 +1,7 @@
+# Ignore all datasets
+dataset/
+**/dataset/
+**/dataset_*/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
